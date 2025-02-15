@@ -31,8 +31,8 @@ export default function Navbar() {
                 </a>
               </li>
               <li className="nav-item">
-                <a className={`nav-link  ${styles.navLink}`} href="/link">
-                  Link
+                <a className={`nav-link  ${styles.navLink}`} href="/contact">
+                  Contact
                 </a>
               </li>
             </ul>
