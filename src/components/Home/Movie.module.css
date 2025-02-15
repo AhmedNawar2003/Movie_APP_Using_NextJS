@@ -1,0 +1,10 @@
+.heading{
+    background-color: cadetblue;
+    color: #ffffff;
+    font-size: 30px;
+    padding: 20px;
+    text-align: center;
+    text-decoration: underline #000;
+    border-radius: 10px;
+    margin-left: 20px;
+}
